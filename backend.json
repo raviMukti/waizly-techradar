@@ -1,0 +1,247 @@
+[
+    {
+        "name": "PostgresSQL 1-14",
+        "ring": "adopt",
+        "quadrant": "Platforms",
+        "isNew": "FALSE",
+        "description": "Relational database for our backend services"
+    },
+    {
+        "name": "MySQL 5-8",
+        "ring": "adopt",
+        "quadrant": "Platforms",
+        "isNew": "FALSE",
+        "description": "Relational database for our backend services"
+    },
+    {
+        "name": "AWS S3",
+        "ring": "adopt",
+        "quadrant": "Platforms",
+        "isNew": "FALSE",
+        "description": "File Storage for our backend services"
+    },
+    {
+        "name": "AWS ELB",
+        "ring": "adopt",
+        "quadrant": "Platforms",
+        "isNew": "FALSE",
+        "description": "Reverse Proxy and Load Balancer for our backend services"
+    },
+    {
+        "name": "AWS CodeBuild",
+        "ring": "adopt",
+        "quadrant": "Platforms",
+        "isNew": "FALSE",
+        "description": "CI Tools for our backend services"
+    },
+    {
+        "name": "AWS CodePipeline",
+        "ring": "adopt",
+        "quadrant": "Platforms",
+        "isNew": "FALSE",
+        "description": "CI Tools for our backend services"
+    },
+    {
+        "name": "Websocket",
+        "ring": "adopt",
+        "quadrant": "Platforms",
+        "isNew": "FALSE",
+        "description": "Realtime Socket for our backend services"
+    },
+    {
+        "name": "Arango DB",
+        "ring": "adopt",
+        "quadrant": "Platforms",
+        "isNew": "FALSE",
+        "description": "NoSQL for our backend services"
+    },
+    {
+        "name": "Mongo DB",
+        "ring": "adopt",
+        "quadrant": "Platforms",
+        "isNew": "FALSE",
+        "description": "NoSQL for our backend services"
+    },
+    {
+        "name": "Github",
+        "ring": "adopt",
+        "quadrant": "Platforms",
+        "isNew": "FALSE",
+        "description": "Online Repository for our backend services"
+    },
+    {
+        "name": "Sendinblue",
+        "ring": "assess",
+        "quadrant": "Platforms",
+        "isNew": "FALSE",
+        "description": "SMTP Platform for our backend services"
+    },
+    {
+        "name": "NginX",
+        "ring": "assess",
+        "quadrant": "Platforms",
+        "isNew": "FALSE",
+        "description": "Reverse Proxy for our backend services"
+    },
+    {
+        "name": "AWS Codedeploy",
+        "ring": "adopt",
+        "quadrant": "Platforms",
+        "isNew": "FALSE",
+        "description": "CD tools for our backend services"
+    },
+    {
+        "name": "Docker Desktop",
+        "ring": "adopt",
+        "quadrant": "Platforms",
+        "isNew": "FALSE",
+        "description": "Container tools for our backend services"
+    },
+    {
+        "name": "Redis",
+        "ring": "adopt",
+        "quadrant": "Platforms",
+        "isNew": "FALSE",
+        "description": "Cache for our backend services"
+    },
+    {
+        "name": "Memcached",
+        "ring": "trial",
+        "quadrant": "Platforms",
+        "isNew": "TRUE",
+        "description": "Cache for our backend services"
+    },
+    {
+        "name": "Ngrok",
+        "ring": "adopt",
+        "quadrant": "Tools",
+        "isNew": "FALSE",
+        "description": "Testing Mock for our backend services"
+    },
+    {
+        "name": "Localtunnel",
+        "ring": "trial",
+        "quadrant": "Tools",
+        "isNew": "FALSE",
+        "description": "Testing Mock for our backend services"
+    },
+    {
+        "name": "Hamachi",
+        "ring": "assess",
+        "quadrant": "Tools",
+        "isNew": "FALSE",
+        "description": "Testing Mock for our backend services"
+    },
+    {
+        "name": "PHP 5-8",
+        "ring": "adopt",
+        "quadrant": "Language & Framework",
+        "isNew": "FALSE",
+        "description": "Language for our backend services"
+    },
+    {
+        "name": "Golang",
+        "ring": "adopt",
+        "quadrant": "Language & Framework",
+        "isNew": "FALSE",
+        "description": "Language for our backend services"
+    },
+    {
+        "name": "Javascript",
+        "ring": "adopt",
+        "quadrant": "Language & Framework",
+        "isNew": "FALSE",
+        "description": "Language for our backend services"
+    },
+    {
+        "name": "Slim 3",
+        "ring": "adopt",
+        "quadrant": "Language & Framework",
+        "isNew": "FALSE",
+        "description": "Framework for our backend services"
+    },
+    {
+        "name": "Laravel 7-10",
+        "ring": "adopt",
+        "quadrant": "Language & Framework",
+        "isNew": "FALSE",
+        "description": "Framework for our backend services"
+    },
+    {
+        "name": "CodeIgniter 3",
+        "ring": "adopt",
+        "quadrant": "Language & Framework",
+        "isNew": "FALSE",
+        "description": "Framework for our backend services"
+    },
+    {
+        "name": "Yii 1.1",
+        "ring": "adopt",
+        "quadrant": "Language & Framework",
+        "isNew": "FALSE",
+        "description": "Framework for our backend services"
+    },
+    {
+        "name": "Express JS",
+        "ring": "trial",
+        "quadrant": "Language & Framework",
+        "isNew": "TRUE",
+        "description": "Framework for our backend services"
+    },
+    {
+        "name": "Monolith",
+        "ring": "adopt",
+        "quadrant": "Technique",
+        "isNew": "FALSE",
+        "description": "Technique for our services"
+    },
+    {
+        "name": "Backend For Frontend",
+        "ring": "adopt",
+        "quadrant": "Technique",
+        "isNew": "FALSE",
+        "description": "Technique for our services"
+    },
+    {
+        "name": "CQRS",
+        "ring": "assess",
+        "quadrant": "Technique",
+        "isNew": "FALSE",
+        "description": "Technique for our services"
+    },
+    {
+        "name": "Microservice Architecture",
+        "ring": "assess",
+        "quadrant": "Technique",
+        "isNew": "FALSE",
+        "description": "Technique for our services"
+    },
+    {
+        "name": "Event-Driven Architecture",
+        "ring": "assess",
+        "quadrant": "Technique",
+        "isNew": "FALSE",
+        "description": "Technique for our services"
+    },
+    {
+        "name": "API Gateway",
+        "ring": "assess",
+        "quadrant": "Technique",
+        "isNew": "FALSE",
+        "description": "Technique for our services"
+    },
+    {
+        "name": "Circuit Breaker",
+        "ring": "assess",
+        "quadrant": "Technique",
+        "isNew": "FALSE",
+        "description": "Technique for our services"
+    },
+    {
+        "name": "Distributed Tracing",
+        "ring": "assess",
+        "quadrant": "Technique",
+        "isNew": "FALSE",
+        "description": "Technique for our services"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "name": "Javascript",
+        "ring": "adopt",
+        "quadrant": "Language & Framework",
+        "isNew": "FALSE",
+        "description": "Language for our frontend services"
+    },
+    {
+        "name": "Typescript",
+        "ring": "assess",
+        "quadrant": "Language & Framework",
+        "isNew": "TRUE",
+        "description": "Language for our frontend services"
+    },
+    {
+        "name": "Flutter",
+        "ring": "assess",
+        "quadrant": "Language & Framework",
+        "isNew": "TRUE",
+        "description": "Framework for our frontend services"
+    },
+    {
+        "name": "Ionic",
+        "ring": "trial",
+        "quadrant": "Language & Framework",
+        "isNew": "FALSE",
+        "description": "Framework for our frontend services"
+    },
+    {
+        "name": "React JS",
+        "ring": "adopt",
+        "quadrant": "Language & Framework",
+        "isNew": "FALSE",
+        "description": "Framework for our frontend services"
+    },
+    {
+        "name": "Vue 2",
+        "ring": "adopt",
+        "quadrant": "Language & Framework",
+        "isNew": "FALSE",
+        "description": "Framework for our frontend services"
+    },
+    {
+        "name": "Nuxt 2",
+        "ring": "adopt",
+        "quadrant": "Language & Framework",
+        "isNew": "FALSE",
+        "description": "Framework for our frontend services"
+    },
+    {
+        "name": "Next",
+        "ring": "trial",
+        "quadrant": "Language & Framework",
+        "isNew": "TRUE",
+        "description": "Framework for our frontend services"
+    },
+    {
+        "name": "Ngrok",
+        "ring": "adopt",
+        "quadrant": "Tools",
+        "isNew": "FALSE",
+        "description": "Testing Mock for our frontend services"
+    },
+    {
+        "name": "Localtunnel",
+        "ring": "assess",
+        "quadrant": "Tools",
+        "isNew": "FALSE",
+        "description": "Testing Mock for our frontend services"
+    },
+    {
+        "name": "Mockoon",
+        "ring": "trial",
+        "quadrant": "Tools",
+        "isNew": "FALSE",
+        "description": "Testing Mock for our frontend services"
+    }
+]
