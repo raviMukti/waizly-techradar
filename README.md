@@ -1,7 +1,7 @@
 ## Waizly Tech Radar 
 
 - Backend : [https://radar.thoughtworks.com/?documentId=https://raw.githubusercontent.com/raviMukti/waizly-techradar/main/backend.json](https://radar.thoughtworks.com/?documentId=https://raw.githubusercontent.com/raviMukti/waizly-techradar/main/backend.json)
-- Frontend : [https://radar.thoughtworks.com/?documentId=https://raw.githubusercontent.com/raviMukti/waizly-techradar/main/frontend.json](https://radar.thoughtworks.com/?documentId=https://raw.githubusercontent.com/raviMukti/waizly-techradar/main/backend.json)
+- Frontend : [https://radar.thoughtworks.com/?documentId=https://raw.githubusercontent.com/raviMukti/waizly-techradar/main/frontend.json](https://radar.thoughtworks.com/?documentId=https://raw.githubusercontent.com/raviMukti/waizly-techradar/main/frontend.json)
 
 ## What is the Tech Radar?
 

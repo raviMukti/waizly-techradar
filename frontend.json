@@ -75,5 +75,26 @@
         "quadrant": "Tools",
         "isNew": "FALSE",
         "description": "Testing Mock for our frontend services"
+    },
+    {
+        "name": "FE Integration Test",
+        "ring": "trial",
+        "quadrant": "Techniques",
+        "isNew": "FALSE",
+        "description": "Provides snapshots and integrity checking for our UI. It shows before and after for every changes to review properly"
+    },
+    {
+        "name": "Lazy Load Rendering",
+        "ring": "trial",
+        "quadrant": "Techniques",
+        "isNew": "FALSE",
+        "description": "Only load or render inside viewport content. Do not load everything at once. Use Observer pattern to detect location in viewport"
+    },
+    {
+        "name": "FE Unit Test",
+        "ring": "assess",
+        "quadrant": "Techniques",
+        "isNew": "FALSE",
+        "description": "Unit test in Frontend can not really shows changes and backward compatibility (integrity) of our UI. It should be replaced by UI Integration Test"
     }
 ]
