@@ -8,21 +8,21 @@
     },
     {
         "name": "Typescript",
-        "ring": "assess",
+        "ring": "hold",
         "quadrant": "Languages and Frameworks",
         "isNew": "TRUE",
         "description": "Language for our frontend services"
     },
     {
         "name": "Flutter",
-        "ring": "assess",
+        "ring": "adopt",
         "quadrant": "Languages and Frameworks",
         "isNew": "TRUE",
         "description": "Framework for our frontend services"
     },
     {
         "name": "Ionic",
-        "ring": "trial",
+        "ring": "assess",
         "quadrant": "Languages and Frameworks",
         "isNew": "FALSE",
         "description": "Framework for our frontend services"
@@ -50,9 +50,37 @@
     },
     {
         "name": "Next",
-        "ring": "trial",
+        "ring": "adopt",
         "quadrant": "Languages and Frameworks",
         "isNew": "TRUE",
+        "description": "Framework for our frontend services"
+    },
+    {
+        "name": "JQuery",
+        "ring": "adopt",
+        "quadrant": "Languages and Frameworks",
+        "isNew": "FALSE",
+        "description": "Framework for our frontend services"
+    },
+    {
+        "name": "Tailwind CSS",
+        "ring": "adopt",
+        "quadrant": "Languages and Frameworks",
+        "isNew": "FALSE",
+        "description": "Framework for our frontend services"
+    },
+    {
+        "name": "Material UI CSS",
+        "ring": "adopt",
+        "quadrant": "Languages and Frameworks",
+        "isNew": "TRUE",
+        "description": "Framework for our frontend services"
+    },
+    {
+        "name": "Bootstrap 4",
+        "ring": "adopt",
+        "quadrant": "Languages and Frameworks",
+        "isNew": "FALSE",
         "description": "Framework for our frontend services"
     },
     {
@@ -71,14 +99,14 @@
     },
     {
         "name": "Mockoon",
-        "ring": "trial",
+        "ring": "adopt",
         "quadrant": "Tools",
         "isNew": "FALSE",
         "description": "Testing Mock for our frontend services"
     },
     {
         "name": "FE Integration Test",
-        "ring": "trial",
+        "ring": "assess",
         "quadrant": "Techniques",
         "isNew": "FALSE",
         "description": "Provides snapshots and integrity checking for our UI. It shows before and after for every changes to review properly"
