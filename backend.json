@@ -106,7 +106,7 @@
     },
     {
         "name": "Memcached",
-        "ring": "trial",
+        "ring": "assess",
         "quadrant": "Platforms",
         "isNew": "TRUE",
         "description": "Cache for our backend services"
@@ -183,7 +183,7 @@
     },
     {
         "name": "Express JS",
-        "ring": "trial",
+        "ring": "adopt",
         "quadrant": "Languages and Frameworks",
         "isNew": "TRUE",
         "description": "Framework for our backend services"
