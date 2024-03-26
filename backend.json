@@ -1,6 +1,6 @@
 [
     {
-        "name": "PostgresSQL 1-14",
+        "name": "PostgresSQL 9-14",
         "ring": "adopt",
         "quadrant": "Platforms",
         "isNew": "FALSE",
@@ -43,7 +43,7 @@
     },
     {
         "name": "Websocket",
-        "ring": "adopt",
+        "ring": "hold",
         "quadrant": "Platforms",
         "isNew": "FALSE",
         "description": "Realtime Socket for our backend services"
@@ -71,14 +71,14 @@
     },
     {
         "name": "Sendinblue",
-        "ring": "assess",
+        "ring": "hold",
         "quadrant": "Platforms",
         "isNew": "FALSE",
         "description": "SMTP Platform for our backend services"
     },
     {
         "name": "NginX",
-        "ring": "assess",
+        "ring": "hold",
         "quadrant": "Platforms",
         "isNew": "FALSE",
         "description": "Reverse Proxy for our backend services"
@@ -105,8 +105,15 @@
         "description": "Cache for our backend services"
     },
     {
+        "name": "AWS EKS",
+        "ring": "adopt",
+        "quadrant": "Platforms",
+        "isNew": "FALSE",
+        "description": "AWS Kubernetes platform"
+    },
+    {
         "name": "Memcached",
-        "ring": "assess",
+        "ring": "hold",
         "quadrant": "Platforms",
         "isNew": "TRUE",
         "description": "Cache for our backend services"
@@ -120,14 +127,14 @@
     },
     {
         "name": "Localtunnel",
-        "ring": "trial",
+        "ring": "hold",
         "quadrant": "Tools",
         "isNew": "FALSE",
         "description": "Testing Mock for our backend services"
     },
     {
         "name": "Hamachi",
-        "ring": "assess",
+        "ring": "hold",
         "quadrant": "Tools",
         "isNew": "FALSE",
         "description": "Testing Mock for our backend services"
@@ -218,9 +225,9 @@
     },
     {
         "name": "Event-Driven Architecture",
-        "ring": "assess",
+        "ring": "trial",
         "quadrant": "Techniques",
-        "isNew": "FALSE",
+        "isNew": "TRUE",
         "description": "Technique for our services"
     },
     {
@@ -243,5 +250,26 @@
         "quadrant": "Techniques",
         "isNew": "FALSE",
         "description": "Technique for our services"
+    },
+    {
+        "name": "Laravel Horizon",
+        "ring": "adopt",
+        "quadrant": "Tools",
+        "isNew": "TRUE",
+        "description": "Queue monitoring dashboard for Laravel"
+    },
+    {
+        "name": "Laravel Queue Monitor",
+        "ring": "adopt",
+        "quadrant": "Tools",
+        "isNew": "TRUE",
+        "description": "Opensource Queue monitoring dashboard for Laravel database driver only"
+    },
+    {
+        "name": "Glair AI Facematch",
+        "ring": "adopt",
+        "quadrant": "Platforms",
+        "isNew": "TRUE",
+        "description": "External AI for facial matching"
     }
 ]
